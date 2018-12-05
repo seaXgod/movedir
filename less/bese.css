@@ -1,0 +1,30 @@
+body,
+a,
+b,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+span,
+p,
+div,
+ul,
+li,
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100%;
+  vertical-align: top;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
